@@ -1,9 +1,27 @@
 {
     "store.sellers": {
         "blocks": [
-            "vtex.store-components:product-name",
-            "product-description",
+            "flex-layout.row#productInfo",
             "sellerselector"
         ]
+    },
+    "flex-layout.row#productInfo": {
+        "children": [
+            "flex-layout.col#infoRight",
+            "flex-layout.col#infoLeft"
+        ]
+    },
+    "flex-layout.col#infoRight": {
+        "children": [
+            "product-images"
+        ],
+        "props": {}
+    },
+    "flex-layout.col#infoLeft": {
+        "children": [
+            "vtex.store-components:product-name",
+            "product-description"
+        ],
+        "props": {}
     }
 }

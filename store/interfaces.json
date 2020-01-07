@@ -3,7 +3,8 @@
         "allowed": [
             "sellerselector",
             "vtex.store-components:product-name",
-            "product-description"
+            "product-description",
+            "product-images"
         ],
         "around": [
             "productWrapper"
