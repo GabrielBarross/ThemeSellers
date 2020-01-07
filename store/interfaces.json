@@ -1,0 +1,13 @@
+{
+    "store.sellers": {
+        "allowed": [
+            "sellerselector",
+            "vtex.store-components:product-name",
+            "product-description"
+        ],
+        "around": [
+            "productWrapper"
+        ],
+        "context": "vtex.store/ProductContext"
+    }
+}

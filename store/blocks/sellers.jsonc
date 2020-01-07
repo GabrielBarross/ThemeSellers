@@ -1,0 +1,9 @@
+{
+    "store.sellers": {
+        "blocks": [
+            "vtex.store-components:product-name",
+            "product-description",
+            "sellerselector"
+        ]
+    }
+}
