@@ -1,0 +1,21 @@
+{
+    "store.custom#sellers": {
+        "blocks": [
+            "flex-layout.row#sellersProduct",
+            "flex-layout.row#sellersList"
+        ]
+    },
+    "flex-layout.row#sellersProduct": {
+        "children": [
+            "rich-text#nome"
+        ]
+    },
+    "rich-text#nome": {
+        "props": {
+            "text": "nomeProduto"
+        }
+    },
+    "flex-layout.row#sellersList": {
+        "children": []
+    }
+}
