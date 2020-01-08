@@ -83,11 +83,11 @@
       "product-price#product-details",
       "product-separator",
       "product-identifier.product",
-      "sku-selector",
       "product-quantity",
+      "sku-selector",
       "product-assembly-options",
-      "flex-layout.row#buy-button",
       "link-seller",
+      "flex-layout.row#buy-button",
       "availability-subscriber",
       "shipping-simulator",
       "share#default"
