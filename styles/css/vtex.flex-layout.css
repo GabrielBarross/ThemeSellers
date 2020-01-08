@@ -35,3 +35,17 @@
 .flexCol--switcherMobileCol {
   width: 20%;
 }
+
+.flexRow--sellersFlex{
+  max-width: 1200px;
+  margin: 20px auto 30px;
+}
+
+.flexCol--leftSellers{
+  border: 1px solid #cacbcc;
+  border-radius: 5px;
+}
+
+.flexCol--rightSellers{
+  padding-left: 30px;
+}

@@ -78,6 +78,10 @@
     font-size: 40px;
   }
 
+  .productDescriptionTitle--descriptionSellers{
+    display: none;
+  }
+
   .infoCardContainer--info-card-home .infoCardTextContainer {
     width: 30%;
   }
